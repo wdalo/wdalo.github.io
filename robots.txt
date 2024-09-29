@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wdalo.github.io/CGh/sitemap.CGh.gz
